@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast Weather",
+  "description": "A complete, modern weather dashboard with hourly and 7-day forecasts, air quality index, real-time alerts, and a production-grade Kotlin Android source code explorer.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
